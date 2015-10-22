@@ -20,11 +20,6 @@
 // ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 // CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-#ifndef DateToolsLocalizedStrings
-#define DateToolsLocalizedStrings(key) \
-NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[[[NSBundle bundleForClass:[DTError class]] resourcePath] stringByAppendingPathComponent:@"DateTools.bundle"]], nil)
-#endif
-
 #import <Foundation/Foundation.h>
 #import "DTConstants.h"
 
@@ -40,6 +35,14 @@ NSLocalizedStringFromTableInBundle(key, @"DateTools", [NSBundle bundleWithPath:[
 - (NSString *)timeAgoSinceDate:(NSDate *)date numericDates:(BOOL)useNumericDates numericTimes:(BOOL)useNumericTimes;
 - (NSString *)shortTimeAgoSinceDate:(NSDate *)date;
 
++ (NSString*)timeAgoSinceDate:(NSDate*)date localeIdentifier:(NSString *)localeIdentifier;
++ (NSString*)shortTimeAgoSinceDate:(NSDate*)date localeIdentifier:(NSString *)localeIdentifier;
+- (NSString*)timeAgoSinceNowWithLocaleIdentifier:(NSString *)localeIdentifier;
+- (NSString *)shortTimeAgoSinceNowWithLocaleIdentifier:(NSString *)localeIdentifier;
+- (NSString *)timeAgoSinceDate:(NSDate *)date localeIdentifier:(NSString *)localeIdentifier;
+- (NSString *)timeAgoSinceDate:(NSDate *)date numericDates:(BOOL)useNumericDates localeIdentifier:(NSString *)localeIdentifier;
+- (NSString *)timeAgoSinceDate:(NSDate *)date numericDates:(BOOL)useNumericDates numericTimes:(BOOL)useNumericTimes localeIdentifier:(NSString *)localeIdentifier;
+- (NSString *)shortTimeAgoSinceDate:(NSDate *)date localeIdentifier:(NSString *)localeIdentifier;
 
 #pragma mark - Date Components Without Calendar
 - (NSInteger)era;
