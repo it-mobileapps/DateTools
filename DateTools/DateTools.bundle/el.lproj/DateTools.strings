@@ -1,89 +1,89 @@
-/* No comment provided by engineer. */
-"%d days ago" = "%d days ago";
+﻿/* No comment provided by engineer. */
+"%d days ago" = "Πριν από %d μέρες";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d hours ago";
+"%d hours ago" = "Πριν από %d ώρες";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutes ago";
+"%d minutes ago" = "Πριν από %d λεπτά";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d months ago";
+"%d months ago" = "Πριν από %d μήνες";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d seconds ago";
+"%d seconds ago" = "Πριν από %d δευτερόλεπτα";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d weeks ago";
+"%d weeks ago" = "Πριν από %d εβδομάδες";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d years ago";
+"%d years ago" = "Πριν από %d χρόνια";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A minute ago";
+"A minute ago" = "Πριν από ένα λεπτό";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hour ago";
+"An hour ago" = "Πριν από μία ώρα";
 
 /* No comment provided by engineer. */
-"Just now" = "Just now";
+"Just now" = "Μόλις τώρα";
 
 /* No comment provided by engineer. */
-"Last month" = "Last month";
+"Last month" = "Τον προηγούμενο μήνα";
 
 /* No comment provided by engineer. */
-"Last week" = "Last week";
+"Last week" = "Την προηγούμενη εβδομάδα";
 
 /* No comment provided by engineer. */
-"Last year" = "Last year";
+"Last year" = "Πέρσι";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Yesterday";
+"Yesterday" = "Χθες";
 
 /* No comment provided by engineer. */
-"1 year ago" = "1 year ago";
+"1 year ago" = "Πριν από 1 χρόνο";
 
 /* No comment provided by engineer. */
-"1 month ago" = "1 month ago";
+"1 month ago" = "Πριν από 1 μήνα";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 week ago";
+"1 week ago" = "Πριν από 1 εβδομάδα";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 day ago";
+"1 day ago" = "Πριν από 1 μέρα";
 
 /* No comment provided by engineer. */
-"1 hour ago" = "1 hour ago";
+"1 hour ago" = "Πριν από 1 ώρα";
 
 /* No comment provided by engineer. */
-"1 minute ago" = "1 minute ago";
+"1 minute ago" = "Πριν από 1 λεπτό";
 
 /* No comment provided by engineer. */
-"1 second ago" = "1 second ago";
+"1 second ago" = "Πριν από 1 δευτερόλεπτο";
 
 /* No comment provided by engineer. */
-"This morning" = "This morning";
+"This morning" = "Σήμερα το πρωί";
 
 /* No comment provided by engineer. */
-"This afternoon" = "This afternoon";
+"This afternoon" = "Σήμερα το απόγευμα";
 
 /* No comment provided by engineer. */
-"Today" = "Today";
+"Today" = "Σήμερα";
 
 /* No comment provided by engineer. */
-"This week" = "This week";
+"This week" = "Αυτήν την εβδομάδα";
 
 /* No comment provided by engineer. */
-"This month" = "This month";
+"This month" = "Αυτόν το μήνα";
 
 /* No comment provided by engineer. */
-"This year" = "This year";
+"This year" = "Φέτος";
 
 /* Short format for */
-"%dy" = "%dy"; // year
-"%dM" = "%dM"; // month
-"%dw" = "%dw"; // week
-"%dd" = "%dd"; // day
-"%dh" = "%dh"; // hour
-"%dm" = "%dm"; // minute
-"%ds" = "%ds"; // second
+"%dy" = "%dχρ"; // year
+"%dM" = "%dμ"; // month
+"%dw" = "%dεβ"; // week
+"%dd" = "%dημ"; // day
+"%dh" = "%dω"; // hour
+"%dm" = "%dλ"; // minute
+"%ds" = "%dδ"; // second

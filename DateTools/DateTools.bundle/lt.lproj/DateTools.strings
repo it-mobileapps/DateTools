@@ -1,89 +1,89 @@
-/* No comment provided by engineer. */
-"%d days ago" = "%d days ago";
+﻿/* No comment provided by engineer. */
+"%d days ago" = "Prieš %d dienas";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d hours ago";
+"%d hours ago" = "Prieš %d valandas";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutes ago";
+"%d minutes ago" = "Prieš %d minutes";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d months ago";
+"%d months ago" = "Prieš %d mėnesius";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d seconds ago";
+"%d seconds ago" = "Prieš %d sekundes";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d weeks ago";
+"%d weeks ago" = "Prieš %d savaites";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d years ago";
+"%d years ago" = "Prieš %d metus";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A minute ago";
+"A minute ago" = "Prieš minutę";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hour ago";
+"An hour ago" = "Prieš valandą";
 
 /* No comment provided by engineer. */
-"Just now" = "Just now";
+"Just now" = "Ką tik";
 
 /* No comment provided by engineer. */
-"Last month" = "Last month";
+"Last month" = "Praėjusį mėnesį";
 
 /* No comment provided by engineer. */
-"Last week" = "Last week";
+"Last week" = "Praėjusią savaitę";
 
 /* No comment provided by engineer. */
-"Last year" = "Last year";
+"Last year" = "Praėjusiais metais";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Yesterday";
+"Yesterday" = "Vakar";
 
 /* No comment provided by engineer. */
-"1 year ago" = "1 year ago";
+"1 year ago" = "Prieš 1 metus";
 
 /* No comment provided by engineer. */
-"1 month ago" = "1 month ago";
+"1 month ago" = "Prieš 1 mėnesį";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 week ago";
+"1 week ago" = "Prieš 1 savaitę";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 day ago";
+"1 day ago" = "Prieš 1 dieną";
 
 /* No comment provided by engineer. */
-"1 hour ago" = "1 hour ago";
+"1 hour ago" = "Prieš 1 valandą";
 
 /* No comment provided by engineer. */
-"1 minute ago" = "1 minute ago";
+"1 minute ago" = "Prieš 1 minutę";
 
 /* No comment provided by engineer. */
-"1 second ago" = "1 second ago";
+"1 second ago" = "Prieš 1 sekundę";
 
 /* No comment provided by engineer. */
-"This morning" = "This morning";
+"This morning" = "Šį rytą";
 
 /* No comment provided by engineer. */
-"This afternoon" = "This afternoon";
+"This afternoon" = "Šią popietę";
 
 /* No comment provided by engineer. */
-"Today" = "Today";
+"Today" = "Šiandien";
 
 /* No comment provided by engineer. */
-"This week" = "This week";
+"This week" = "Šią savaitę";
 
 /* No comment provided by engineer. */
-"This month" = "This month";
+"This month" = "Šį mėnesį";
 
 /* No comment provided by engineer. */
-"This year" = "This year";
+"This year" = "Šiais metais";
 
 /* Short format for */
-"%dy" = "%dy"; // year
-"%dM" = "%dM"; // month
-"%dw" = "%dw"; // week
+"%dy" = "%dm"; // year
+"%dM" = "%dmė"; // month
+"%dw" = "%dsa"; // week
 "%dd" = "%dd"; // day
-"%dh" = "%dh"; // hour
-"%dm" = "%dm"; // minute
+"%dh" = "%dva"; // hour
+"%dm" = "%dmi"; // minute
 "%ds" = "%ds"; // second

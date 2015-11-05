@@ -1,89 +1,89 @@
-/* No comment provided by engineer. */
-"%d days ago" = "%d days ago";
+﻿/* No comment provided by engineer. */
+"%d days ago" = "%d päeva tagasi";
 
 /* No comment provided by engineer. */
-"%d hours ago" = "%d hours ago";
+"%d hours ago" = "%d tundi tagasi";
 
 /* No comment provided by engineer. */
-"%d minutes ago" = "%d minutes ago";
+"%d minutes ago" = "%d minutit tagasi";
 
 /* No comment provided by engineer. */
-"%d months ago" = "%d months ago";
+"%d months ago" = "%d kuud tagasi";
 
 /* No comment provided by engineer. */
-"%d seconds ago" = "%d seconds ago";
+"%d seconds ago" = "%d sekundit tagasi";
 
 /* No comment provided by engineer. */
-"%d weeks ago" = "%d weeks ago";
+"%d weeks ago" = "%d nädalat tagasi";
 
 /* No comment provided by engineer. */
-"%d years ago" = "%d years ago";
+"%d years ago" = "%d aastat tagasi";
 
 /* No comment provided by engineer. */
-"A minute ago" = "A minute ago";
+"A minute ago" = "Üks minut tagasi";
 
 /* No comment provided by engineer. */
-"An hour ago" = "An hour ago";
+"An hour ago" = "Üks tund tagasi";
 
 /* No comment provided by engineer. */
-"Just now" = "Just now";
+"Just now" = "Just nüüd";
 
 /* No comment provided by engineer. */
-"Last month" = "Last month";
+"Last month" = "Eelmisel kuul";
 
 /* No comment provided by engineer. */
-"Last week" = "Last week";
+"Last week" = "Eelmisel nädalal";
 
 /* No comment provided by engineer. */
-"Last year" = "Last year";
+"Last year" = "Eelmisel aastal";
 
 /* No comment provided by engineer. */
-"Yesterday" = "Yesterday";
+"Yesterday" = "Eile";
 
 /* No comment provided by engineer. */
-"1 year ago" = "1 year ago";
+"1 year ago" = "1 aasta tagasi";
 
 /* No comment provided by engineer. */
-"1 month ago" = "1 month ago";
+"1 month ago" = "1 kuu tagasi";
 
 /* No comment provided by engineer. */
-"1 week ago" = "1 week ago";
+"1 week ago" = "1 nädal tagasi";
 
 /* No comment provided by engineer. */
-"1 day ago" = "1 day ago";
+"1 day ago" = "1 päev tagasi";
 
 /* No comment provided by engineer. */
-"1 hour ago" = "1 hour ago";
+"1 hour ago" = "1 tund tagasi";
 
 /* No comment provided by engineer. */
-"1 minute ago" = "1 minute ago";
+"1 minute ago" = "1 minut tagasi";
 
 /* No comment provided by engineer. */
-"1 second ago" = "1 second ago";
+"1 second ago" = "1 sekund tagasi";
 
 /* No comment provided by engineer. */
-"This morning" = "This morning";
+"This morning" = "Täna hommikul";
 
 /* No comment provided by engineer. */
-"This afternoon" = "This afternoon";
+"This afternoon" = "Täna pärastlõunal";
 
 /* No comment provided by engineer. */
-"Today" = "Today";
+"Today" = "Täna";
 
 /* No comment provided by engineer. */
-"This week" = "This week";
+"This week" = "Sel nädalal";
 
 /* No comment provided by engineer. */
-"This month" = "This month";
+"This month" = "Sel kuul";
 
 /* No comment provided by engineer. */
-"This year" = "This year";
+"This year" = "Sel aastal";
 
 /* Short format for */
-"%dy" = "%dy"; // year
-"%dM" = "%dM"; // month
-"%dw" = "%dw"; // week
-"%dd" = "%dd"; // day
-"%dh" = "%dh"; // hour
-"%dm" = "%dm"; // minute
-"%ds" = "%ds"; // second
+"%dy" = "%dA"; // year
+"%dM" = "%dK"; // month
+"%dw" = "%dN"; // week
+"%dd" = "%dP"; // day
+"%dh" = "%dT"; // hour
+"%dm" = "%dM"; // minute
+"%ds" = "%dS"; // second
